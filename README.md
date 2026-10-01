@@ -1,2 +1,2 @@
 # Math-Flash-Unfinished
-Grade 9 Math Flash C code. Currently in development
+Math Flash for grade 9. helpful tool for reviewing.
